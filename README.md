@@ -104,9 +104,11 @@ function isNumeric(str) {
 ```
 
 Configuration de la slash command:
+
 ![configuration_slack_command](./configuration_slack_commande.png)
 
 Cette commande est dispo dans les channels et DM.
 
 ## Demo
+
 ![configuration_slack_command](./demo.gif)
