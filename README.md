@@ -10,7 +10,7 @@ Il n'existe pas d'app Slack Google Meet.
 
 Hangout existe mais je préfère Meet.
 
-Après quelques mois d' utilisation [au phare](https://lephare.com), nous avons apprivoiser l' outil pour de nouveaux cas d' usage tels que:
+Après quelques mois d' utilisation [au phare](https://lephare.com), nous avons apprivoisé l' outil pour de nouveaux cas d' usage tels que:
     
 * Je dois me synchroniser avec X, je lui envoie un lien meet dans une conv Slack que je rejoins et où je l'attends s'il n'est pas dispo tout de suite.
 * un /meet provoque une communication synchrone qui peut durer 2min au lien de 2h en asynchrone par slack interposés 
